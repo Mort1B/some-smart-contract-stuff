@@ -9,4 +9,4 @@
 Cargo.lock
 
 # Ignore debug files
-.vscode
+.vscode/
