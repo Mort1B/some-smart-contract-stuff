@@ -207,9 +207,7 @@ mod ticket_event {
         }
     }
 
-    /// Unit tests in Rust are normally defined within such a `#[cfg(test)]`
-    /// module and test functions are marked with a `#[test]` attribute.
-    /// The below code is technically just normal Rust code.
+    /// Unit tests
     #[cfg(test)]
     mod tests {
         /// Imports all the definitions from the outer scope so we can use them here.
